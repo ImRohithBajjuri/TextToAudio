@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey">#9E9E9E</color>
+    <color name="grey2">#757575</color>
+    <color name="grey3">#E0E0E0</color>
+
+    <color name="lightGrey">#EEEEEE</color>
+    <color name="lightGrey2">#F5F5F5</color>
+    <color name="darkBlue">#0D47A1</color>
+    <color name="lightBlue">#bbdefb</color>
+    <color name="lightBlue2">#81D4FA</color>
+    <color name="lightBlue3">#03A9F4</color>
+
+
+
+    <color name="peachyRed">#FD4949</color>
+    <color name="peachyRedLight">#ffccd1</color>
+    <color name="peachyRedLight2">#f99897</color>
+
+    <color name="deepPurple">#673AB7</color>
+    <color name="deepPurpleLight">#d1c4e9</color>
+    <color name="deepPurpleLight2">#9965f4</color>
+    <color name="deepPurpleLight3">#ede7f6</color>
+    <color name="deepPurple2">#311B92</color>
+    <color name="deepPurple3">#9575cd</color>
+    <color name="alphaDeepPurple">#669575cd</color>
+    <color name="alphaDeepPurple2">#66311B92</color>
+    <color name="alphaDeepPurple3">#66311B92</color>
+
+    <color name="indigo">#1A237E</color>
+    <color name="indigo2">#283593</color>
+    <color name="indigo3">#8C9EFF</color>
+    <color name="indigo4">#3D5AFE</color>
+
+    <color name="darkGrey">#424242</color>
+    <color name="darkGrey2">#1c1c1c</color>
+    <color name="darkGrey3">#212121</color>
+    <color name="darkGrey4">#101010</color>
+    <color name="darkGrey5">#282828</color>
+
+    <color name="red">#D50000</color>
+    <color name="red2">#E53935</color>
+
+    <color name="lime">#C6FF00</color>
+    <color name="lightGreen">#00E676</color>
+    <color name="green">#00E676</color>
+    <color name="lightGreen2">#B9F6CA</color>
+    <color name="green2">#00C853</color>
+    <color name="darkGreen">#1B5E20</color>
+
+    <color name="purple">#4A148C</color>
+    <color name="purpleLight">#EA80FC</color>
+
+    <color name="pink">#880E4F</color>
+
+    <color name="orange">#FF3D00</color>
+
+    <color name="yellow">#FFEB3B</color>
+
+    <color name="alphaWhite">#66FFFFFF</color>
+    <color name="alphaBlack">#66000000</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+</resources>
